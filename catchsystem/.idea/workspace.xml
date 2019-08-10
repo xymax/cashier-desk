@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa9d6f28-a65f-4700-b58a-8fac55064c7d" name="默认更改列表" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\maven-warehouse\repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1P59OhoXJfG0QbwhCkuP088s7zB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cashsystem.cmd.impl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CheckStand" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cashsystem.cmd.CheckStand" />
+      <module name="catchsystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cashsystem.cmd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckStand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa9d6f28-a65f-4700-b58a-8fac55064c7d" name="默认更改列表" comment="" />
+      <created>1564884376374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564884376374</updated>
+      <workItem from="1564884379155" duration="10184000" />
+      <workItem from="1564897839425" duration="236000" />
+      <workItem from="1564898096307" duration="46000" />
+      <workItem from="1564898164149" duration="258000" />
+      <workItem from="1564898443019" duration="121000" />
+      <workItem from="1564898584476" duration="44000" />
+      <workItem from="1564898650098" duration="14990000" />
+      <workItem from="1564921679803" duration="12000" />
+      <workItem from="1565011483724" duration="3348000" />
+      <workItem from="1565061087664" duration="3735000" />
+      <workItem from="1565065156913" duration="1034000" />
+      <workItem from="1565069499075" duration="428000" />
+      <workItem from="1565069954451" duration="59000" />
+      <workItem from="1565070756668" duration="5479000" />
+      <workItem from="1565076286209" duration="844000" />
+      <workItem from="1565077156950" duration="8957000" />
+      <workItem from="1565143724167" duration="4852000" />
+      <workItem from="1565152043393" duration="55000" />
+      <workItem from="1565152151223" duration="170000" />
+      <workItem from="1565153066064" duration="557000" />
+      <workItem from="1565153643937" duration="62000" />
+      <workItem from="1565153739122" duration="190000" />
+      <workItem from="1565153985191" duration="423000" />
+      <workItem from="1565154619231" duration="748000" />
+      <workItem from="1565155646448" duration="391000" />
+      <workItem from="1565156061017" duration="745000" />
+      <workItem from="1565172354832" duration="635000" />
+      <workItem from="1565173327145" duration="2600000" />
+      <workItem from="1565175962092" duration="8347000" />
+      <workItem from="1565233137477" duration="1590000" />
+      <workItem from="1565236124908" duration="7040000" />
+      <workItem from="1565317347395" duration="5788000" />
+      <workItem from="1565326671300" duration="2331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
